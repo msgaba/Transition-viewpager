@@ -1,4 +1,6 @@
 # Zooming-and-infinite-Auto-scrolling-viewpager
+## Brief
+A sample app showcasing a custom viewpager which zooms the active fragment along with infite auto scrolling.
 ## Screen recording
 https://user-images.githubusercontent.com/71500144/215331460-64449aca-414c-43ba-8098-8ddb20787409.mp4
 ## Functionality
