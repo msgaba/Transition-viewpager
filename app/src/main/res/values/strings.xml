@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Transition</string>
+    <string name="transition_header_1" translatable="false">Fresh Food</string>
+    <string name="transition_header_2" translatable="false">Fast Delivery</string>
+    <string name="transition_header_3" translatable="false">Easy Payment</string>
+    <string name="transition_header_4" translatable="false">Customer Support</string>
+    <string name="transition_sub_header_1" translatable="false">We provide the finest\nquality of food to all\nour customers.</string>
+    <string name="transition_sub_header_2" translatable="false">Fastest Delivery is what\nwe work on and\nmaintaining the same.</string>
+    <string name="transition_sub_header_3" translatable="false">Making payments seamless\nis what we master in.</string>
+    <string name="transition_sub_header_4" translatable="false">Providing 24*7 customer \nsupport and solving every issue\nwith upmost priority.</string>
+</resources>
