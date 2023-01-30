@@ -3,6 +3,8 @@
 A sample app showcasing a custom viewpager which zooms the active fragment along with infite auto scrolling.
 ## Screen recording
 https://user-images.githubusercontent.com/71500144/215331460-64449aca-414c-43ba-8098-8ddb20787409.mp4
+## Reference 
+[medium article](https://medium.com/@ankugaba_1907/zooming-and-infinite-auto-scrolling-viewpager-e1ce0cb2de7)
 ## Functionality
 ### ZoomingTransformer
 Scaling down the items to minimum of MIN_SCALE of the original size, so that the active fragment appears to be of original size, 
